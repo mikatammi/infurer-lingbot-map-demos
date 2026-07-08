@@ -22,6 +22,14 @@ with offline loop closure.
 - **▶ [Open in your browser](https://mikatammi.github.io/infurer-lingbot-map-demos/seesangen-inside.html)** — renders the live 3D viewer (GitHub Pages; ~64 MB, give it a moment to load)
 - Or grab [`seesangen-inside.html`](seesangen-inside.html) and open it locally — works fully offline
 
+### Siltavideo
+
+A ~1-minute handheld walk, reconstructed windowed at 15 fps and corrected with
+offline loop closure.
+
+- **▶ [Open in your browser](https://mikatammi.github.io/infurer-lingbot-map-demos/siltavideo.html)** — renders the live 3D viewer (GitHub Pages; ~60 MB, give it a moment to load)
+- Or grab [`siltavideo.html`](siltavideo.html) and open it locally — works fully offline
+
 ## Controls
 
 Drag = orbit · scroll = zoom · double-click = recenter · scrub/play the timeline
