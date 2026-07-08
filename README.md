@@ -14,7 +14,17 @@ mode and corrected with offline loop closure.
 - **▶ [Open in your browser](https://mikatammi.github.io/infurer-lingbot-map-demos/pontdyk1.html)** — renders the live 3D viewer (GitHub Pages; ~64 MB, give it a moment to load)
 - Or grab [`pontdyk1.html`](pontdyk1.html) and open it locally — works fully offline
 
-**Controls:** drag = orbit · scroll = zoom · double-click = recenter · scrub/play
-the timeline at the bottom. Switch the **camera** dropdown to *free fly* for
-WASD + mouse-look (click the view to capture the mouse, Esc to release). The
-panel has confidence / point-size / transparency sliders.
+### Seesangen (inside)
+
+An interior walk through Seesangen, reconstructed windowed at 5 fps and corrected
+with offline loop closure.
+
+- **▶ [Open in your browser](https://mikatammi.github.io/infurer-lingbot-map-demos/seesangen-inside.html)** — renders the live 3D viewer (GitHub Pages; ~64 MB, give it a moment to load)
+- Or grab [`seesangen-inside.html`](seesangen-inside.html) and open it locally — works fully offline
+
+## Controls
+
+Drag = orbit · scroll = zoom · double-click = recenter · scrub/play the timeline
+at the bottom. Switch the **camera** dropdown to *free fly* for WASD + mouse-look
+(click the view to capture the mouse, Esc to release). The panel has confidence /
+point-size / transparency sliders.
